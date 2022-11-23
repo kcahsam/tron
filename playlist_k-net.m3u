@@ -1,0 +1,104 @@
+﻿#EXTM3U
+#EXTREM:Généré le 2022-11-23 23:30:24
+#EXTREM:Rappel des paramètres :
+#EXTREM:cha_TNT=1
+#EXTREM:cha_CANAL=
+#EXTREM:cha_info=1
+#EXTREM:cha_loca=1
+#EXTREM:cha_dive=1
+#EXTREM:cha_etr_ang=
+#EXTREM:cha_etr_ara=
+#EXTREM:cha_etr_ger=
+#EXTREM:cha_etr_his=
+#EXTREM:cha_etr_ita=
+#EXTREM:cha_etr_lus=
+#EXTREM:cha_radios=
+#EXTREM:zone_pilote=
+#EXTREM:ip_box=192.168.1.1
+#EXTREM:ip_port=3333
+#EXTREM:cha_prio=hd_sd
+#EXTREM:cha_proto=ott
+#EXTREM:Début des programmes :
+#EXTINF:0 tvg-id="TF11.kazer.org" tvg-logo="tf1.png" group-name="TNT" ,1. TF1
+http://s.tv.kwaoo.net/1/play.m3u8
+#EXTINF:0 tvg-id="FRA2.kazer.org" tvg-logo="france2.png" group-name="TNT" ,2. France 2
+http://s.tv.kwaoo.net/2/play.m3u8
+#EXTINF:0 tvg-id="FRA3.kazer.org" tvg-logo="france3.png" group-name="TNT" ,3. France 3
+http://s.tv.kwaoo.net/3/play.m3u8
+#EXTINF:0 tvg-id="FRA5.kazer.org" tvg-logo="france5.png" group-name="TNT" ,5. France 5
+http://s.tv.kwaoo.net/5/play.m3u8
+#EXTINF:0 tvg-id="M61.kazer.org" tvg-logo="m6.png" group-name="TNT" ,6. M6
+http://s.tv.kwaoo.net/6/play.m3u8
+#EXTINF:0 tvg-id="ART1.kazer.org" tvg-logo="arte.png" group-name="TNT" ,7. Arte
+http://s.tv.kwaoo.net/7/play.m3u8
+#EXTINF:0 tvg-id="DIR1.kazer.org" tvg-logo="direct8.png" group-name="TNT" ,8. D8
+http://s.tv.kwaoo.net/8/play.m3u8
+#EXTINF:0 tvg-id="W91.kazer.org" tvg-logo="w9.png" group-name="TNT" ,9. W9
+http://s.tv.kwaoo.net/9/play.m3u8
+#EXTINF:0 tvg-id="TMC1.kazer.org" tvg-logo="tmc.png" group-name="TNT" ,10. TMC
+http://s.tv.kwaoo.net/10/play.m3u8
+#EXTINF:0 tvg-id="NT11.kazer.org" tvg-logo="nt1.png" group-name="TNT" ,11. NT1
+http://s.tv.kwaoo.net/11/play.m3u8
+#EXTINF:0 tvg-id="NRJ1.kazer.org" tvg-logo="nrj12.png" group-name="TNT" ,12. NRJ12
+http://s.tv.kwaoo.net/12/play.m3u8
+#EXTINF:0 tvg-id="LAC1.kazer.org" tvg-logo="lcp.png" group-name="TNT" ,13. La chaîne parlementaire
+http://s.tv.kwaoo.net/13/play.m3u8
+#EXTINF:0 tvg-id="FRA4.kazer.org" tvg-logo="france4.png" group-name="TNT" ,14. France 4
+http://s.tv.kwaoo.net/14/play.m3u8
+#EXTINF:0 tvg-id="BFM1.kazer.org" tvg-logo="bfmtv.png" group-name="TNT" ,15. BFM TV
+http://s.tv.kwaoo.net/15/play.m3u8
+#EXTINF:0 tvg-id="ITL1.kazer.org" tvg-logo="i-tele.png" group-name="TNT" ,16. i>TELE
+http://s.tv.kwaoo.net/16/play.m3u8
+#EXTINF:0 tvg-id="EUR2.kazer.org" tvg-logo="d17.png" group-name="TNT" ,17. D17
+http://s.tv.kwaoo.net/17/play.m3u8
+#EXTINF:0 tvg-id="GUL1.kazer.org" tvg-logo="gulli.png" group-name="TNT" ,18. Gulli
+http://s.tv.kwaoo.net/18/play.m3u8
+#EXTINF:0 tvg-id="FRA1.kazer.org" tvg-logo="franceO.png" group-name="TNT" ,19. France Ô
+http://s.tv.kwaoo.net/19/play.m3u8
+#EXTINF:0 tvg-id="HD1.kazer.org" tvg-logo="hd1.png" group-name="TNT" ,20. HD1
+http://s.tv.kwaoo.net/20/play.m3u8
+#EXTREM : pas de flux sd
+#EXTINF:0 tvg-id="LEQ1.kazer.org" tvg-logo="lequipe21.png" group-name="TNT" ,21. L'équipe 21
+http://s.tv.kwaoo.net/21/play.m3u8
+#EXTREM : pas de flux sd
+#EXTINF:0 tvg-id="6TER.kazer.org" tvg-logo="6ter.png" group-name="TNT" ,22. 6TER.kazer.org
+http://s.tv.kwaoo.net/22/play.m3u8
+#EXTREM : pas de flux sd
+#EXTINF:0 tvg-id="NU23.kazer.org" tvg-logo="n23.png" group-name="TNT" ,23. Numéro 23
+http://s.tv.kwaoo.net/23/play.m3u8
+#EXTREM : pas de flux sd
+#EXTINF:0 tvg-id="RMC2.kazer.org" tvg-logo="rmcdecouverte.png" group-name="TNT" ,24. RMC Découverte
+http://s.tv.kwaoo.net/24/play.m3u8
+#EXTREM : pas de flux sd
+#EXTINF:0 tvg-id="CHE1.kazer.org" tvg-logo="cherie25.png" group-name="TNT" ,25. Chérie 25
+http://s.tv.kwaoo.net/25/play.m3u8
+#EXTREM : pas de flux sd
+#EXTINF:0 tvg-id="TV55.kazer.org" tvg-logo="tv5mondeeurope.png" group-name="TNT" ,59. TV5 Monde Europe
+http://s.tv.kwaoo.net/59/play.m3u8
+#EXTINF:0 tvg-id="TSR1.kazer.org" tvg-logo="tsr1.png" group-name="TNT" ,124. RTS 1
+http://s.tv.kwaoo.net/124/play.m3u8
+#EXTINF:0 tvg-id="TSR2.kazer.org" tvg-logo="tsr2.png" group-name="TNT" ,125. RTS 2
+http://s.tv.kwaoo.net/125/play.m3u8
+#EXTINF:0 tvg-id="FRA16.kazer.org" tvg-logo="f24-fr.png" group-name="Informations" ,54. France 24 (Fra)
+http://s.tv.kwaoo.net/54/play.m3u8
+#EXTINF:0 tvg-id="FRA35.kazer.org" tvg-logo="france3.png" group-name="Local" ,30. France 3 Alpes
+http://s.tv.kwaoo.net/30/play.m3u8
+#EXTINF:0 tvg-id="TV81.kazer.org" tvg-logo="tv8mb.png" group-name="Local" ,31. TV8 MontBlanc
+http://s.tv.kwaoo.net/31/play.m3u8
+#EXTINF:0 tvg-logo="vosges-tv.png" group-name="Local" ,33. VosgesTV
+http://s.tv.kwaoo.net/0/play.m3u8
+#EXTINF:0 tvg-id="CCT2.kazer.org" tvg-logo="cctv.png" group-name="Local" ,50. CCTVF
+http://s.tv.kwaoo.net/50/play.m3u8
+#EXTINF:0 tvg-logo="montagne.png" group-name="Local" ,68. Montagne TV
+http://s.tv.kwaoo.net/141/play.m3u8
+#EXTINF:0 tvg-logo="mirabelle.png" group-name="Local" ,88. Mirabelle TV
+http://s.tv.kwaoo.net/0/play.m3u8
+#EXTREM : semble out
+#EXTINF:0 tvg-id="M6B1.kazer.org" tvg-logo="M6_Boutique.png" group-name="Divers" ,64. M6 Boutique
+http://s.tv.kwaoo.net/64/play.m3u8
+#EXTINF:0 tvg-id="BES4.kazer.org" tvg-logo="bestofshopping.png" group-name="Divers" ,70. Best Of Shopping
+http://s.tv.kwaoo.net/70/play.m3u8
+#EXTINF:0 tvg-id="KTO1.kazer.org" tvg-logo="kto.png" group-name="Divers" ,91. KTO
+http://s.tv.kwaoo.net/0/play.m3u8
+#EXTINF:0 group-name="Divers" ,140. Nolife
+http://s.tv.kwaoo.net/140/play.m3u8
