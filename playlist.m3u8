@@ -3,6 +3,11 @@
 https://s12.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiA2OjI5OjQ4IFBNJmhhc2hfdmFsdWU9MmlFQVNZU3dUb0ROZktSdXNRUFlmZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1, TF1 CHANNEL 2
 https://s14.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiA3OjAxOjM1IFBNJmhhc2hfdmFsdWU9OXdoMEFxRFRHVFZIZHNXWUJzUi9CUT09JnZhbGlkbWludXRlcz0zMA==
+#EXTINF:-1, TF1 CHANNEL 3
+https://s15.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiA3OjAxOjM1IFBNJmhhc2hfdmFsdWU9OXdoMEFxRFRHVFZIZHNXWUJzUi9CUT09JnZhbGlkbWludXRlcz0zMA==
+#EXTINF:-1, TF1 CHANNEL 4
+https://s13.tntendirect.com/tf1/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiA3OjAxOjM1IFBNJmhhc2hfdmFsdWU9OXdoMEFxRFRHVFZIZHNXWUJzUi9CUT09JnZhbGlkbWludXRlcz0zMA==
+
 #EXTINF:-1, M6
 https://s15.tntendirect.com/m6/live/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAyMiA2OjU0OjUyIFBNJmhhc2hfdmFsdWU9UU04Q2hUWTZaWFV5VlpFbDJDK1V3QT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1, C8
